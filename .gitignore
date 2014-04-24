@@ -1,3 +1,5 @@
 html/
 .idea/
 *.iml
+.sass-cache/
+styles/
